@@ -1,6 +1,8 @@
-# Copyright 2017 The Chiron Authors. All Rights Reserved.
-#Ref: https://github.com/haotianteng/Chiron
-
+"""
+Created on Wed Nov 28 22:34:18 2018
+@author: nbath
+Ref: https://github.com/haotianteng/Chiron
+"""
 
 from __future__ import absolute_import
 from __future__ import division
