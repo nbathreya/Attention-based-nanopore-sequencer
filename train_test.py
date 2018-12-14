@@ -12,7 +12,7 @@ import time
 import read_signal_label
 from cnn import getcnnfeature
 #from cnn import getcnnlogit
-from rnn import rnn_layers, rnn_layers_one_direction
+from rnn-att import rnn_layers, rnn_layers_one_direction
 #from utils.attention import attention_loss
 
 LR_BOUNDARY = [0.66,0.83]
