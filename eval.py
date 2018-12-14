@@ -19,7 +19,7 @@ import json
 from read_signal_label import read_data_for_eval
 # from utils.easy_assembler import section_decoding
 from cnn import getcnnfeature, getcnnlogit
-from rnn import rnn_layers, rnn_layers_one_direction
+from rnn-att import rnn_layers, rnn_layers_one_direction
 from utils.easy_assembler import simple_assembly
 from utils.easy_assembler import simple_assembly_qs
 from utils.unix_time import unix_time
