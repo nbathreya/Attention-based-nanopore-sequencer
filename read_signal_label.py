@@ -4,6 +4,8 @@
 Created on Tue Nov 20 22:43:59 2018
 
 @author: athreya
+
+Ref: https://github.com/haotianteng/Chiron
 """
 
 from __future__ import absolute_import
