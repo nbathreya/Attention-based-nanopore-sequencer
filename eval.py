@@ -4,8 +4,6 @@
 Created on Fri Dec  7 19:14:12 2018
 
 @author:Nagendra athreya
-
-Ref: https://github.com/haotianteng/Chiron
 """
 from __future__ import division
 import argparse
